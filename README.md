@@ -32,7 +32,8 @@ python3 api.py
 ```
 
 5. Access the autocomplete service by sending GET requests to the endpoint /query with the q parameter representing the query string:
-Example: In the URL http://localhost:8000/query?query=how&count=1
+
+Example: In the URL http://localhost:8000/query?query=how&count=1 -
 - Base URL: http://localhost:8000
 - Endpoint: /query
 - Query parameters:
